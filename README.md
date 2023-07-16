@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prashanth Kumar Sirikonda and I am a Java full stack developer
+- 👋 Hi, I’m Prashanth Kumar and I am a Java full stack developer
 - Check out my component library: https://component-library-f07d4.web.app/
 - Checkout my work @ https://templates-b9bee.firebaseapp.com/
 - 🌱 I’m currently learning Angular
